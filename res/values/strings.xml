@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, Main!</string>
+    <string name="app_name">PushMoreListView</string>
+  <string name="query_loading">加载中...</string>
+  <string name="query_fail">加载失败,重试?</string>
+  <string name="query_retry">重试</string>
+</resources>
